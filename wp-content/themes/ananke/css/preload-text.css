@@ -1,0 +1,92 @@
+/* #PAGE LOAD */
+body.royal_loader {
+    background: none;
+    visibility: hidden;
+}
+#royal_preloader {
+    font-family: Arial;
+    font-size: 12px;
+    visibility: visible;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    z-index: 9999999999;
+    -webkit-transition: opacity 0.2s linear 0.8s;
+       -moz-transition: opacity 0.2s linear 0.8s;
+        -ms-transition: opacity 0.2s linear 0.8s;
+         -o-transition: opacity 0.2s linear 0.8s;
+            transition: opacity 0.2s linear 0.8s;
+}
+#royal_preloader.complete {
+    opacity: 0;
+}
+#royal_preloader .background {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #000000;
+    -webkit-transition: background 0.5s linear;
+       -moz-transition: background 0.5s linear;
+        -ms-transition: background 0.5s linear;
+         -o-transition: background 0.5s linear;
+            transition: background 0.5s linear;
+}
+#royal_preloader.text .loader {
+    position: absolute;
+    font-family: 'Sifonn-Basic';
+    text-shadow: 0 0 15px rgba(0,0,0,0.3);
+    text-transform:uppercase;
+    top: 50%;
+    left: 50%;
+    height: 40px;
+    line-height: 40px;
+    margin-top: -20px;
+    letter-spacing: 3px;
+    font-size: 36px;
+    white-space: nowrap;
+}
+#royal_preloader.text .loader div {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0%;
+    background-color: #000000;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    -webkit-transition: left 0.3s linear;
+       -moz-transition: left 0.3s linear;
+        -ms-transition: left 0.3s linear;
+         -o-transition: left 0.3s linear;
+            transition: left 0.3s linear;
+}
+
+@-webkit-keyframes fly {
+    0% { opacity: 0; top: 50%; }
+    20% {opacity: 1; top: 40%; }
+    100% { opacity: 0; top: 20%;}
+}
+@-moz-keyframes fly {
+    0% { opacity: 0; top: 50%; }
+    20% {opacity: 1; top: 40%; }
+    100% { opacity: 0; top: 20%;}
+}
+@-ms-keyframes fly {
+    0% { opacity: 0; top: 50%; }
+    20% {opacity: 1; top: 40%; }
+    100% { opacity: 0; top: 20%;}
+}
+@-o-keyframes fly {
+    0% { opacity: 0; top: 50%; }
+    20% {opacity: 1; top: 40%; }
+    100% { opacity: 0; top: 20%;}
+}
+@keyframes fly {
+    0% { opacity: 0; top: 50%; }
+    20% {opacity: 1; top: 40%; }
+    100% { opacity: 0; top: 20%;}
+}

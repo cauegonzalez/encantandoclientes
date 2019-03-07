@@ -1,0 +1,569 @@
+Version 3.3 ( 20th November 2018 )
+-----------
+
+Added:
+- 8 New Demos.
+	Composer Default: http://innwithemes.com/composer/defaultdemo2019/
+	Space Project: http://innwithemes.com/composer/space/
+	Personal Site: http://innwithemes.com/composer/personal-site/
+	Basketball Player: http://innwithemes.com/composer/basketball/
+	Fitness 2: http://innwithemes.com/composer/fitness/
+	CupCakes Shop: http://innwithemes.com/composer/cupcakes/
+	Folio: http://innwithemes.com/composer/folio/
+	One Page Business: http://innwithemes.com/composer/index/
+
+
+Updated:
+- WooCommerce 3.5.1.
+
+Fixed:
+- Bug fixes and improvement.
+
+Version 3.2.7 ( 2nd October 2018 )
+-----------
+
+Fixed:
+- Bug fixes and improvement.
+
+Version 3.2.6 ( 1st October 2018 )
+-----------
+
+Updated:
+- Updated Plugins: Ultimate VC Addons, Yellow Pencil, Visual Composer and Slider Revolution.
+- WooCommerce 3.4.5.
+
+Version 3.2.5 ( 28th June 2018 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer and Slider Revolution.
+- WooCommerce 3.4.3.
+
+Version 3.2.4 ( 05th June 2018 )
+-----------
+
+Updated:
+- Updated Plugins: Ultimate VC Addons and Yellow Pencil.
+
+Version 3.2.3 ( 13th April 2018 )
+-----------
+
+Updated:
+- Updated Plugins: Ultimate VC Addons.
+- WooCommerce 3.3.5.
+
+Added:
+Add shortcode above footer option
+Column option added in Blog Masonry and Grid Style
+Social share element added for Single Blog
+
+Fixed:
+Breadcrumbs issue corrected
+
+Version 3.2.2 ( 21th March 2018 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer, Slider Revolution and Extreme VC Copy Paste Addons.
+- WooCommerce 3.3.3.
+
+Version 3.2.1 ( 12th February 2018 )
+-----------
+
+Updated:
+- WooCommerce 3.3.1
+- .pot file updated.
+
+Fixed:
+- Anchor menu not animated issue fixed.
+- Various small bugs fixed.
+
+Version 3.2 ( 9th February 2018 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer, Slider Revolution, Yellow Pencil and Ultimate VC Addons.
+- Language file updated.
+
+Added:
+- Single blog separate elements added( post tag, category, author image etc.. ) helps to build own layout.
+- Single blog post individual layout and sidebar option added.
+- Image srcset added in blog, single blog, archives, search and single portfolio.
+- New Recent blog shortcode style added (Slide, Grid and Masonry).
+- Custom 404 page option added.
+- Custom post type and cutom taxonomy options added in Recent blog shortcode.
+- Custom title tag option added in Default Pages.
+- Search option added in element blocks.
+- Retina logo option added in page option.
+- Related post link text option added.
+- Blogger icon added in social icon shortcode.
+- Show description added in portfolio.
+- BB Press updated.
+- None value added in Hide/Skip portfolio terms to allow all the categories.
+- Re-order portfolio shortcode and portfolio block filter Option Added.
+- Portfolio category slug option added.
+- Logo alt text added.
+- Catalog image option added in page option.
+- User can insert Shortcode in Footer copyright text.
+- Add anchor link in Blog/archives/search feature thumbnail.
+- Show/hide category name in portfolio shortcode thumb option added.
+
+Fixed:
+- One page menu issue fixed.
+- Mobile menu dropdown for mega menu title issue fixed.
+- Title bar background image issue fixed.
+- Body background issue fixed.
+- BB Press issue fixed.
+- Portfolio filter issue fixed.
+- Lightbox title text issue fixed in gallery and portfolio block.
+- General metabox issue fixed.
+- Portfolio sub category filter issue fixed.
+- Preload trigger if no href in a tag.
+- Core Plugin Php error when theme deactivated.
+- Portfolio shortcode animation issue fixed.
+- Missing menu added in page option.
+- Single blog issue fixed.
+
+Improved:
+- Theme Option improved.
+- Recent post widget improved.
+- Single Blog and Single Portfolio CLASS based change into get_template_part based.
+
+Version 3.1.4 ( 11th December 2017 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer, Slider Revolution and Ultimate VC Addons.
+
+Added:
+- New menu style added.
+- Metabox option added for custom post types.
+- Row default padding option added.
+- Pagination option added in Recent Blog Shortcode.
+- Header widget added for Center Logo / Left-Right Menu.
+- Change URL in address bar option added in Autoload and Load More.
+
+Fixed:
+- Cart page responsive issue fixed.
+- Exclude search issue fixed
+- Portfolio loadmore lightbox issue fixed.
+- Autoload animate offset issue fixed. 
+- Single Portfolio arrow not clickable in responsive issue fixed.
+- Recent Blog newly added pagination issue fixed. 
+
+Version 3.1.3 ( 17th November 2017 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer, Slider Revolution and Ultimate VC Addons.
+
+Added:
+- Added Plugins: Yellow Pencil
+- Single Blog Title Tag Added.
+- Mobile Menu Color Option Added.
+- Skip Option Added in Portfolio Filter.
+- Login / Logout Header Element Added.
+- Visual Composer Option Added for Single Blog Post.
+- Portfolio Block 13 Added.
+- Custom Link Option added to Image Carousel.
+
+Improved:
+- Portfolio Filter Improved.
+- Image Carousel Improved.
+
+Version 3.1.2 ( 29th October 2017 )
+-----------
+
+Updated:
+- Updated Plugins: VC Copy Paste Plugin.
+
+Fixed:
+- Video Shortcodes issues fixed.
+- Video Portfolio issues fixed.
+- Small Bugs fixed.
+
+Version 3.1.1 ( 20th October 2017 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer, Slider Revolution.
+- WooCommerce 3.2.1
+- Google webfont updated.
+- Pot file updated.
+
+Added: 
+- Skip Portfolio Category.
+- New style for recent blog.
+- Composer Slider Slide Animation Option added on shortcode.
+- Few additional footer layout option added.
+- WooCommerce login/logout link shortcode added.
+- Product link added in shop catalog thumbnail.
+- Title tag option added in sub banner title.
+- Portfolio Block Number of items option added.
+
+Fixed:
+- Pagination on Shop.
+- Product Search.
+- Lots of Improvements and Bugs.
+
+Version 3.1 ( 4th Oct 2017 )
+-----------
+
+Added:
+- 7 New Demos.
+	Bed and Breakfast: http://innwithemes.com/composer/bed-breakfast/
+	Fleur: http://innwithemes.com/composer/fleur/
+	Insurance: http://innwithemes.com/composer/insurance/
+	Notebook: http://innwithemes.com/composer/notebook/
+	Pharma: http://innwithemes.com/composer/pharma/
+	Soyyo: http://innwithemes.com/composer/soyyo/
+	Suitcase: http://innwithemes.com/composer/suitcase/
+
+Fixed:
+- Lots of Improvements and Bugs Fixed.
+
+Version 3.0.4 ( 18th August 2017 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer, Slider Revolution, Ultimate VC Addons.
+
+Added:
+- Hamburger overlay custom style added. 
+- Hamburger menu style added.
+- Menu text transform option added.
+
+Fixed:
+- Blocks image issue fixed
+- Password production container issue fixed. 
+- Woocommerce error styling issue fixed.
+- Portfolio style2 style issue fixed.
+- 404 error page issue fixed. 
+- Side header widget issue fixed. 
+- Mobile logo issue fixed.
+
+Version 3.0.3 ( 5th August 2017 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer
+
+Added:
+- New Gallery lightbox style changed.
+- Event tribe title bar and header options added.
+
+Fixed:
+- Portfolio Block style 2 link issue fixed.
+- Copyright text issue fixed.
+
+Version 3.0.2 ( 3rd August 2017 )
+-----------
+
+Updated:
+- Updated Plugins: Ultimate VC Addons
+
+Fixed:
+- Portfolio image blur issue fixed.
+- Menu issue fixed.
+
+Version 3.0.1 ( 28th July 2017 )
+-----------
+
+Updated:
+- Updated Plugins: Ultimate VC Addons
+- WooCommerce 3.1.1
+
+Fixed:
+- Menu issue fixed.
+- VC Editor Post type.
+- Single Portfolio Styling issues fixed.
+
+Added:
+- New Options for Pricing Table 
+
+Version 3.0 ( 7th July 2017 )
+-----------
+
+Updated:
+- Updated Plugins: Visual Composer, Slider Revolution, Ultimate VC Addons
+- WooCommerce 3.1.
+
+Added:
+- 3 New Demos.
+	Sports Tennis: http://innwithemes.com/composer/sports-tennis
+	Top Invest: http://innwithemes.com/composer/top-invest
+	Najanjas: http://innwithemes.com/composer/naranjas
+- Video Carousel Added.
+- Menu Responsive Break Point Option Added.
+- Image Size Options Added for Single Portfolio.
+- Slider Option Added on before Header.
+- Main Wrapper Background Color added on theme Options and Metabox.
+- Visual Composer enabled for Single Portfolio.
+- Related Post Option added for Single Blog.
+- Portfolio and gallery block custom link option added.
+- Search no result title and content changing option added.
+- Single Banner Custom Color Option Added.
+- Composer Slider Autoplay and Loop Option Added.
+- Single banner styling Option Added.
+- Shop Width Height Option Added.
+- Blog Full Content Option Added.
+- New Contact Form Added.
+- Portfolio Category Added.
+- Portfolio Load More Button Text Option Added.
+
+Fixed:
+- Header Opacity Issue Fixed.
+- Contact Form Date Issues Fixed.
+- iPhone Mobile Menu Issues Fixed.
+- wpautop on text widget.
+- Portfolio dt to li convert.
+- Gallery Block Issues Fixed.
+- Sub Menu Background Issues Fixed.
+- Sidebar Issues Fixed.
+- Menu Issue Fixed.
+
+Improved:
+- Search Result Improved.
+
+Version 2.10.1 ( 12th April 2017 )
+-----------
+
+Updated:
+- WooCommerce 3.0.3.
+
+Added:
+- Masonry Option for Shop.
+- Composer Slider arrow style added.
+
+Fixed:
+- WPML issues.
+
+Version 2.10 ( 12th April 2017 )
+-----------
+
+Updated:
+- Visual Composer ver-5.1.1.
+- WooCommerce 3.0.
+- WPML Config XML.
+
+Added:
+- Single Product Sidebar Option.
+- WooCommerce Single Product Zoom Effect.
+- Custom Fonts Option.
+- Missing Custom Color Option.
+
+Fixed:
+- Single Blog Style1 Issues.
+- Header Custom Text Option Issues.
+- Title Bar Background Image Issues.
+- Lots of Improvements and Bugs.
+
+Version 2.9 ( 15th March 2017 )
+-----------
+
+- Numerous bug fixes and Improvements
+- Updated Plugins: Visual Composer, Slider Revolution, Ultimate VC Addons
+
+Version 2.8 ( 24th Febraury 2017 )
+-----------
+Added:
+	- 3 New Demos.
+	- Seperate Menu for Mobile.
+	- Portfolio Thumbnail Direct Link.
+	- Portfolio Search Option added.
+	- Register Form Fix.
+	- Lightbox Image Option added in Image Carousel.
+	- Add Tags for Single Blog.
+	- Add Social Share on Single Blog.
+
+Improvement:
+	- IconBox Shortcode Bug Fixed.
+
+Version 2.7 ( 11th Febraury 2017 )
+-----------
+Added:
+	- 2 New Demos Added.
+		Travel: innwithemes.com/composer/travel/?pri_color=004564
+		Seafood: innwithemes.com/composer/seafood/
+	- Register Form Added.
+	- Login Form Added.
+	- Hide Mobile Menu on Mobile Devices Option Added.
+	- Sticky Logo Option Added.
+	- Mobile Logo Option Added.
+	- Default Placeholder Image option added.
+
+Fixed:
+	- Product Category Pagination Issue Fixed.
+	- Blog Grid Issue Fixed.
+	- Portfolio Block Issue Fixed.
+	- Shop Block Issue Fixed.
+	- Right Mobile Menu Arrow Issue Fixed.
+
+Version 2.6 ( 25th January 2017 )
+-----------
+
+- New Demo Added (Digital Agency 2).
+- Added: Title Bar Hide option on Search Page.
+- Fixed: WooCommerce Categories Only Option.
+- Fixed: Retina Issues.
+- Fixed: Visual Composer Post Grid, Post Masonry Grid, Media Grid, Masonry Media Grid.
+- Fixed: Title Bar Hide option on Blog Page and Archive Page.
+- Missing: Translate text added.
+- Missing: Demo Slider added.
+
+Version 2.5 ( 26th December 2016 )
+-----------
+
+- Blog Translate text missing fixed.
+- Portfolio Blocks loadmore block style issues fixed.
+- Portfolio Blocks loadmore block lightbox issues fixed.
+- Owl Carousel RTL issues fixed.
+
+Version 2.4 ( 23rd December 2016 )
+-----------
+
+- RTL ADDED.
+- Responsive Logo Size corrected.
+- Boxed Layout container collapse fixed.
+- mobile sticky header corrected on header 6, header 7, header 8 & header 9.
+- Vc_inner_row top space fixed.
+- vc_images_carousel image expand issues fixed.
+
+Version 2.3 ( 22nd December 2016 )
+-----------
+
+- Revolution Slider Updated.
+- Login form Added.
+- Link added in gallery Blocks.
+- Portfolio animation added.
+- Dynamic Styles added.
+- Lots of improvement and bug fixed.
+
+Version 2.2 ( 9th December 2016 )
+-----------
+
+- Ultimate Addon Compatibility issue fixed.
+
+Version 2.1 ( 8th December 2016 )
+-----------
+
+- Page Jump fixed on page load.
+- Portfolio jump fixed.
+- Blog load more fixed.
+- Missing pages added in Blocks.
+- vc_row disable issue fixed.
+- Footer Blocks issue fixed.
+- Undefined Notices fixed.
+- Ajax Load Button size adjusted.
+
+Version 2.0 ( 3rd December 2016 )
+-----------
+
+ADDED:
+- 12 New Demos.
+- 20+ New pages.
+- 20+ Footer Layout.
+- 12 Grid Blog Blocks.
+- 12 Gallery Blocks.
+- 10 Magazine Blocks.
+- 10 Featured Blog Blocks.
+- 10 Preloader Animations.
+- 5 Shop Blocks.
+- 8 New Subscribe Form.
+- 2 New Single Blog Styles.
+- Left and Right Header Menu styles Added.
+- New Header Style.
+
+Fixed:
+- Footer Background Option Fixed.
+- Custom Footer Option Fixed.
+- Custom Social Icon Margin Collapse fixed.
+
+Updated:
+- Visual Composer Plugin Updated.
+- Revolution Slider Updated.
+
+
+Version 1.1.2 ( 28th October 2016 )
+-----------
+
+- Portfolio Block Error Fixed.
+- Fixed Header 5 Issues on Firefox.
+- Vc row Remove Default Padding Added.
+- Custom Css File Move to Upload Directory.
+- Custom Font Weight Issue fixed on Theme Option. 
+- 800+ Google Fonts Added.
+- Spinner Removed on WooCommerce cart dropdown. 
+- Header Color Option Corrected. 
+- Single Blog Title link Removed.
+
+Version 1.1.1 ( 27th October 2016 )
+-----------
+
+- Fixed conflict with old composer plugin.
+
+Version 1.1 ( 26th October 2016 )
+-----------
+
+ADDED:
+- 10 New Demos.
+- 6 New Portfolio Hover Effect.
+- 10 Portfolio Grid / Masonry Blocks.
+- Template Inserter.
+- Exclusive VC Copy Paste Plugin.
+- Background Text Shortcode.
+- Social Icon Custom Option.
+- Hover Box Shortcode.
+- Copyright Center Widget Option.
+- Top Header Background Option. 
+- Single Product Thumbnails column option.
+- Video Popup Custom Styles.
+- Carousel Arrow Styles.
+- Mobile Menu Dropdown open when parent href is # or empty.
+
+FIXED:
+- Portfolio Issues Fixed. @done (16-10-28 15:53)
+- Multisite Custom Style Saving Issues Fixed.
+- Video Popup Issues Fixed.
+- Product Category Styling Issues Fixed.
+
+Version 1.03 ( 8th October 2016 )
+-----------
+
+- Added Sticky Header Responsive Option. 
+- Added Portfolio Image Grayscale Option. 
+- Mobile Menu One page nav Enhanced. 
+- Fixed Slider issue on backend. 
+- Added Left Header and Right Header Navigation Alignment Option.
+- Fixed Sub banner Title and breadcrumbs not display correctly in shop and product categories.
+- Fixed Left Header and Right Header style issues.
+- Fixed WooCommerce Register Form Styling issues.
+- ADD Seperate Single XML for all demos in package.
+- ADD Contact form 7 forms in Package.
+
+Version 1.02 ( 2nd October 2016 )
+-----------
+
+- Fixed Position issues on Single Portfolio.
+- Fixed Custom Color option Issues.
+- New Portfolio Option Added.
+- Fixed Responsive Issues.
+- New Demo Added.
+- One Click Demo Importer Added.
+
+Version 1.01 ( 28th September 2016 )
+-----------
+
+- New demos and rev slider added!
+- Fixed Title Bar custom setting not working on metabox.
+- Fixed social icons not shows in dark bg left and right header.
+- Fixed header hover style 8 and 9 padding issue.
+- Fixed body bg color not applying.
+- Fixed single portfolio theme option not working.
+- Sticky cart icon color fixed on Dark Header.
+- Added envato toolkit plugin.
+
+Version 1.0 ( 26th September 2016 )
+-----------
+
+- Initial Release

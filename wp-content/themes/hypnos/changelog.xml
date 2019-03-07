@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="1.4.3" date="2016-07-13">
+        <change>Fixed - Fullsceen video</change>
+        <change>Google Maps - Adding Google API option</change>
+        <change>Improved - the latest Visual Composer version</change>
+        <change>Improved - the latest Slider Revolution version</change>
+        <change>Improved - the latest TGMPA plugin</change>
+    </release>
+    <release version="1.4.2" date="2016-05-04">
+        <change>Fixed - header logo changing trough theme options</change>
+    </release>
+    <release version="1.4.1" date="2016-04-20">
+        <change>Improvement - backend workflow made better</change>
+    </release>
+    <release version="1.4.0" date="2016-04-19">
+        <change>Improvement - backend workflow made better</change>
+    </release>
+    <release version="1.3.6" date="2016-04-13">
+        <change>Fixed - portfolio ajax scroll down</change>
+    </release>
+    <release version="1.3.5" date="2016-04-11">
+        <change>Fixed - portfolio ajax scroll</change>
+    </release>
+    <release version="1.3.4" date="2016-04-11">
+        <change>Fixed - options duplication</change>
+        <change>Fixed - new version of fullscreen slider</change>
+    </release>
+    <release version="1.3.3" date="2015-09-15">
+        <change>Text with icon section hover text fix</change>
+        <change>Featured projects - added printing url so the project will open in next window</change>
+        <change>Added revisions system</change>
+    </release>
+    <release version="1.3.2" date="2015-07-20">
+        <change>Featured section - links fix</change>
+        <change>Pricing Table section - removed not used monthly input</change>
+        <change>Fixed sidebar position for single posts</change>
+        <change>Fixed possible XSS attack by comment text</change>
+    </release>
+    <release version="1.3.1" date="2015-06-02">
+        <change>Slider video background image, fixed it's size</change>
+        <change>You can now have up to 4 levels in main navigation</change>
+        <change>The latest Revolution Slider</change>
+    </release>
+    <release version="1.3.0" date="2015-05-22">
+        <change>The latest fresh framework update</change>
+    </release>
+    <release version="1.2.3" date="2015-05-06">
+        <change>There are applied shortcodes in HTML section now.</change>
+    </release>
+    <release version="1.2.2" date="2015-04-30">
+        <change>Portfolio filtering by category removed</change>
+    </release>
+    <release version="1.2.1" date="2015-04-29">
+        <change>Revslider section fix</change>
+    </release>
+    <release version="1.2.0" date="2015-04-09">
+        <change>Revslider section fix</change>
+    </release>
+    <release version="1.1.9" date="2015-04-09">
+        <change>Small fix</change>
+    </release>
+    <release version="1.1.8" date="2015-04-09">
+        <change>The latest TGM plugin</change>
+        <change>Featured works fulscreen bug fixed</change>
+        <change>Added more description into some sections</change>
+    </release>
+    <release version="1.1.7" date="2015-04-14">
+        <change>Added filtering by category in Portfolio section</change>
+        <change>Slightly improved loading speed</change>
+        <change>Repaired portfolio section filtering by portfolio category</change>
+        <change>Fixed iframe video issue</change>
+        <change>Fixed space (too small) between header and content on pages and blog in some cases</change>
+    </release>
+    <release version="1.1.6" date="2015-03-12">
+        <change>Added the latest new fresh framework.</change>
+        <change>Theme Options / Footer - repaired invisible icon in footer.</change>
+        <change>Google map - repaired unescaped string in javascript.</change>
+    </release>
+    <release version="1.1.5" date="2015-03-11">
+        <change>Problem with vimeo portfolio video fixed</change>
+    </release>
+    <release version="1.1.4" date="2015-03-05">
+        <change>Problem with youtube portfolio video fixed</change>
+        <change>Added section pure HTML</change>
+    </release>
+    <release version="1.1.3" date="2015-02-26">
+        <change>Problem with two featured sections fixed</change>
+        <change>Portfolio section "Show all" translation added</change>
+    </release>
+    <release version="1.1.2" date="2015-02-20">
+        <change>Portfolio Section title and description fix</change>
+    </release>
+    <release version="1.1.1" date="2015-02-20">
+        <change>Logo/Header area, improved flexibility</change>
+        <change>Contact Form not sending email - fixed</change>
+    </release>
+	<release version="1.1.0" date="2015-02-19">
+        <change>Pricing table button url fixed</change>
+        <change>Twitter username and url fixed</change>
+        <change>Contact form not sending email fixed</change>
+    </release>
+    <release version="1.0.10" date="2015-02-17">
+        <change>Revslider headers font fixed</change>
+    </release>
+    <release version="1.0.9" date="2015-02-17">
+        <change>Revslider headers font fixed</change>
+    </release>
+    <release version="1.0.8" date="2015-02-16">
+        <change>Forgotten version inserted into style.css</change>
+    </release>
+    <release version="1.0.7" date="2015-02-16">
+        <change>Option added for loading text</change>
+        <change>Added option into featured section to change button hover title</change>
+    </release>
+    <release version="1.0.6" date="2015-02-10">
+        <change>Twitter section - Nicer info, when there are bad twitter credentials</change>
+        <change>Intense script - removed relative image to fix 404 error</change>
+        <change>wp_head() and wp_footer() - moved to standard place.</change>
+        <change>New TGM version - Remove call to deprecated function screen_icon()</change>
+        <change>register_sidebar() function called in widgets_init hook</change>
+        <change>All user data input escaped with esc_url(), esc_attr() or wp_kses() finctions</change>
+    </release>
+    <release version="1.0.5" date="2015-01-26">
+        <change>The latest demo content - XML export file</change>
+    </release>
+    <release version="1.0.4" date="2015-01-26">
+        <change>The latest demo content - XML export file</change>
+        <change>The latest demo content - Revolution Slider Slides</change>
+    </release>
+    <release version="1.0.3" date="2015-01-26">
+        <change>Small fix</change>
+    </release>
+    <release version="1.0.2" date="2015-01-23">
+        <change>Small fix</change>
+    </release>
+    <release version="1.0.1" date="2015-01-23">
+        <change>Small fix</change>
+    </release>
+    <release version="1.0.0" date="2015-01-23">
+        <change>Initial release</change>
+    </release>
+</changelog>

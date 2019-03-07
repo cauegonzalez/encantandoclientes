@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "pix-themeoptions";
+  src:url("../fonts/pix-themeoptions.eot");
+  src:url("../fonts/pix-themeoptions.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/pix-themeoptions.woff") format("woff"),
+    url("../fonts/pix-themeoptions.ttf") format("truetype"),
+    url("../fonts/pix-themeoptions.svg#pix-themeoptions") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "pix-themeoptions" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "pix-themeoptions" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-comments:before {
+  content: "\61";
+}
+.icon-reload:before {
+  content: "\62";
+}
+.icon-close-delete:before {
+  content: "\63";
+}
+.icon-folder-open:before {
+  content: "\64";
+}
+.icon-remove:before {
+  content: "\65";
+}
+.icon-check-mark:before {
+  content: "\66";
+}
+.icon-cancel:before {
+  content: "\67";
+}
+.icon-check:before {
+  content: "\68";
+}
+.icon-undo:before {
+  content: "\69";
+}
+.icon-cloud-download:before {
+  content: "\6a";
+}
+.icon-alert:before {
+  content: "\6f";
+}
+.icon-stack:before {
+  content: "\74";
+}
+.icon-settings:before {
+  content: "\76";
+}
+.icon-pages:before {
+  content: "\78";
+}
+.icon-image:before {
+  content: "\79";
+}
+.icon-check-mark-circle-two:before {
+  content: "\7a";
+}
+.icon-tools:before {
+  content: "\45";
+}
+.icon-tasks:before {
+  content: "\4d";
+}
+.icon-save-disk:before {
+  content: "\52";
+}
+.icon-cart:before {
+  content: "\59";
+}
+.icon-sort:before {
+  content: "\6d";
+}
+.icon-person-stalker:before {
+  content: "\6e";
+}
+.icon-bars:before {
+  content: "\70";
+}
+.icon-block:before {
+  content: "\71";
+}
+.icon-paint-brush:before {
+  content: "\72";
+}
+.icon-font:before {
+  content: "\73";
+}
+.icon-letter:before {
+  content: "\75";
+}
+.icon-download:before {
+  content: "\77";
+}
+.icon-tags:before {
+  content: "\41";
+}
+.icon-search:before {
+  content: "\42";
+}
+.icon-file-text:before {
+  content: "\43";
+}
+.icon-fonticons:before {
+  content: "\6b";
+}
+.icon-page-multiple:before {
+  content: "\6c";
+}
+.icon-window:before {
+  content: "\44";
+}
+.icon-file:before {
+  content: "\46";
+}
+.icon-header:before {
+  content: "\47";
+}

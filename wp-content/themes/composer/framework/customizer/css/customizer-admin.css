@@ -1,0 +1,22 @@
+#customize-controls, .attachment-media-view, .media-widget-preview.media_audio, .media-widget-preview.media_image, .customize-control {
+	background-color: #fff;
+}
+
+.customize-control:not(.customize-control-code_editor) {
+	margin-bottom: 0;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.customize-section-title {
+    margin: 0
+}
+
+#customize-theme-controls .customize-pane-child.accordion-section-content {
+    padding: 0;
+}
+
+#customize-controls .customize-info, .control-section-nav_menu .customize-section-description-container, .control-section-new_menu .customize-section-description-container, .customize-section-description-container, #customize-theme-controls .control-panel-themes>.accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title:hover {
+	margin-bottom: 0;
+}
